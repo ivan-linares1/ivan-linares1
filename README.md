@@ -1,11 +1,12 @@
 # ¡Hola! 👋 Soy Ivan Linares
 
-Desarrollador web apasionado por crear experiencias limpias y eficientes.  
-Me encanta Laravel, JavaScript moderno y optimizar el rendimiento.
+🌐 **Desarrollador web fullstack** con pasión por crear aplicaciones limpias, eficientes y con gran rendimiento.  
+🚀 Experto en **Laravel**, **JavaScript moderno** y **optimización de frontend**.  
+🎯 Me gusta aprender, compartir y enfrentar retos con código elegante.
 
 ---
 
-### 🛠 Tecnologías & Herramientas
+### 🛠 Tecnologías y herramientas favoritas
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel)  
@@ -24,10 +25,17 @@ Me encanta Laravel, JavaScript moderno y optimizar el rendimiento.
 
 ### 🔗 Conecta conmigo
 
-- [LinkedIn](https://www.linkedin.com/in/ivan-linares1)  
-- [Twitter](https://twitter.com/ivan-linares1)  
-- [Portfolio](https://ivan-linares1.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-linares1)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ivan-linares1)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://ivan-linares1.github.io)
 
 ---
 
-¡Gracias por pasar! 🚀
+### ⚡ Un dato curioso
+
+> “No hay código perfecto, solo el que funciona mejor cada día.”  
+
+---
+
+¡Gracias por visitar mi perfil! 🚀  
+Si quieres colaborar, no dudes en contactarme.
